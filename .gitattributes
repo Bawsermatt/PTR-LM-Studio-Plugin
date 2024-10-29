@@ -4,4 +4,4 @@
 # ============
 *.py     text diff=python
 *.py3    text diff=python
-*.json    text diff=Json
+*.json    text diff=json
