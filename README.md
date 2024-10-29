@@ -20,10 +20,10 @@ example:
 
 ## Settings
 
-**API:** Set the API KEY.
-**Temperature:** Set how much randomness to introduce. 0 will yield the same result every time, while higher values will increase creativity and variance.
-**Model:** Set the name of the current model.
-**Language:** Set the AI ​​language.
+- **API:** Set the API KEY.
+- **Temperature:** Set how much randomness to introduce. 0 will yield the same result every time, while higher values will increase creativity and variance.
+- **Model:** Set the name of the current model.
+- **Language:** Set the AI ​​language.
 
 ## License
 [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
